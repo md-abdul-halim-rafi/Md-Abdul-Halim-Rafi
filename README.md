@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Md-Abdul-Halim-Rafi/Md-Abdul-Halim-Rafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at Mainly Technology
+- 🌱 I work with:
+     - ReactJs
+     - NextJs
+     - NodeJs
+     - Firebase
+     - Flutter
+     - Gcloud
+     - AWS 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-abdul-halim-rafi/), [Whatsapp](https://wa.me/+8801521103317)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
