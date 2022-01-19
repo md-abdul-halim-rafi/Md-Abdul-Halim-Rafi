@@ -1,6 +1,6 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Rafi, a Full Stack Web Application and Flutter Developer Bangladesh and Co-Founder and CTO at [MainlyCoding.com](https://mainlycoding.com).
+I'm Rafi, a Full Stack Web Application and Flutter Developer Bangladesh and Co-Founder at [MainlyCoding.com](https://mainlycoding.com). Currently employed at HypeScout as Lead Software Engineer.
 
 :coffee: &emsp;Connect with me!
 
@@ -8,7 +8,7 @@ I'm Rafi, a Full Stack Web Application and Flutter Developer Bangladesh and Co-F
 
 
 :hearts: &emsp;I love programming and always explore gatherting new technical knowledge <br/>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/facebook/230/man-tipping-hand-type-1-2_1f481-1f3fb-200d-2642-fe0f.png" alt="man hand raise emo" height="20px" /> &emsp;I’m currently working as Junior Frontend Engineer at HypeScout <br/>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/facebook/230/man-tipping-hand-type-1-2_1f481-1f3fb-200d-2642-fe0f.png" alt="man hand raise emo" height="20px" /> &emsp;I’m currently working as Lead Software Engineer at HypeScout <br/>
 :e-mail: &emsp;How to reach me: mdabdulhalimrafi@gmail.com.<br/>
 ⚡ &emsp;Fun fact: I've co-founded my country's first ever hands on learing system for coding arena MainlyCoding.com.
 
@@ -22,7 +22,7 @@ I'm Rafi, a Full Stack Web Application and Flutter Developer Bangladesh and Co-F
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Projects</b></td>
+      <td><b>Experience</b></td>
       <td><b>Description</b></td>
     </tr>
   </thead>
@@ -33,7 +33,7 @@ I'm Rafi, a Full Stack Web Application and Flutter Developer Bangladesh and Co-F
     </tr>
     <tr>
       <td><a href="https://hypescout.cm" target="_blank">HypeScout</a></td>
-      <td>First ever & Influencer Marketing Platform in Bangladesh</td>
+      <td>First ever data-driven Influencer Marketing Platform in Bangladesh</td>
     </tr>
   </tbody>
 </table>
