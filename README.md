@@ -14,10 +14,19 @@ I'm Rafi, a Full Stack Web Application and Flutter Developer Bangladesh and Co-F
 
 #### Things I code with
 
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCB2B?style=for-the-badge&labelColor=f9f9f9&logo=firebase&logoColor=F5820C)](#) [![AWS Badge](https://img.shields.io/badge/-aws-252F3E?style=for-the-badge&labelColor=FF9900&logo=amazon&logoColor=252F3E)](#)
-[![GCloud Badge](https://img.shields.io/badge/google%20cloud-E34133?style=for-the-badge&logo=googlecloud&logoColor=ffffff)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-FF5252?style=for-the-badge&logo=mysql&logoColor=FF5252&labelColor=FFFFFF)](#) [![Nginx Badge](https://img.shields.io/badge/nginx-41B33E?style=for-the-badge&logo=nginx&logoColor=FFFFFF)](#) [![GCloud Badge](https://img.shields.io/badge/google%20cloud-E34133?style=for-the-badge&logo=googlecloud&logoColor=E34133&labelColor=FFFFFF)](#) [![AWS Badge](https://img.shields.io/badge/-aws-252F3E?style=for-the-badge&labelColor=FF9900&logo=amazon&logoColor=252F3E)](#) [![Docker Badge](https://img.shields.io/badge/DOCKER-52B6FF?style=for-the-badge&logo=docker&logoColor=FFFFFF)](#) [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCB2B?style=for-the-badge&labelColor=f9f9f9&logo=firebase&logoColor=F5820C)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
-### My Projects
+##### For CSS Framework
+[![MUI Badge](https://img.shields.io/badge/mui-0E93E6?style=for-the-badge&logo=mui&logoColor=0E93E6&labelColor=FFFFFF)](#)
+[![Semantic-UI Badge](https://img.shields.io/badge/semantic%20ui-35BCB2?style=for-the-badge&logo=semanticui&logoColor=FFFFFF)](#)
+[![Ant-Design Badge](https://img.shields.io/badge/ant%20design-1990FF?style=for-the-badge&logo=antdesign&logoColor=FFF&labelColor=F54054)](#)
+[![Next-UI Badge](https://img.shields.io/badge/next%20ui-FFF?style=for-the-badge&logo=nextuirg&logoColor=000)](#)
+
+##### For App Development
+[![Flutter Badge](https://img.shields.io/badge/flutter-00D1FF?style=for-the-badge&logo=flutter&logoColor=00D1FF&labelColor=FFFFFF)](#)
+[![Dart Badge](https://img.shields.io/badge/dart-00B4ED?style=for-the-badge&logo=dart&logoColor=FFFFFF)](#)
+
+#### My Projects
 
 <table>
   <thead align="center">
