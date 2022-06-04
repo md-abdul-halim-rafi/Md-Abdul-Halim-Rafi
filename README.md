@@ -7,7 +7,7 @@ I'm Rafi, a Full Stack Web Application and Flutter Developer from Bangladesh. In
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdul-halim-rafi/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/md_abdul_halim_rafi) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbdulHalimRafi) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdabdulhalimrafi@gmail.com)
 
 
-:hearts: &emsp;I love programming and always explore gatherting new technical knowledge <br/>
+:hearts: &emsp;I love programming and always explore gatherting new technical knowledge and skill <br/>
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/facebook/230/man-tipping-hand-type-1-2_1f481-1f3fb-200d-2642-fe0f.png" alt="man hand raise emo" height="20px" /> &emsp;I’m currently working as Lead Software Engineer at HypeScout <br/>
 :e-mail: &emsp;How to reach me: mdabdulhalimrafi@gmail.com.<br/>
 ⚡ &emsp;Fun fact: I've co-founded my country's first ever hands on learing system for coding arena MainlyCoding.com.
