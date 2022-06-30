@@ -41,7 +41,7 @@ I'm Rafi, a Full Stack Web Application and Flutter Developer from Bangladesh. In
       <td>Mainly Coding (মেইনলি কোডিং) is a Personalized Online Learning Platform dedicated to learning and teaching Programming in Bangla.</td>
     </tr>
     <tr>
-      <td><a href="https://hypescout.cm" target="_blank">HypeScout</a></td>
+      <td><a href="https://www.hypescout.co" target="_blank">HypeScout</a></td>
       <td>First ever data-driven Influencer Marketing Platform in Bangladesh</td>
     </tr>
   </tbody>
