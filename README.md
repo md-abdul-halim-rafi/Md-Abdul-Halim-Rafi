@@ -1,6 +1,6 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"/>
 
-I'm Rafi, a Full Stack Web Application and Flutter Developer from Bangladesh. In addition, I co-founded [MainlyCoding.com](https://mainlycoding.com), which was acquired by an Bangladeshi EdTech company Shikho in January, 2022. Now, I'm currently employed at HypeScout as Senior Software Engineer.
+I'm Rafi, a Full Stack Web Application and Flutter Developer from Bangladesh. In addition, I co-founded [MainlyCoding.com](https://mainlycoding.com), which was acquired by an Bangladeshi EdTech company Shikho in January, 2022. Now, I'm currently employed at [HypeScout](https://www.hypescout.co) as Senior Software Engineer.
 
 :coffee: &emsp;Connect with me!
 
