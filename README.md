@@ -2,7 +2,7 @@
 
 I'm Rafi, a Full Stack Web Application and Flutter Developer from Bangladesh. In addition, I co-founded [Mainly Coding](https://mainlycoding.com), which was acquired by an Bangladeshi EdTech company Shikho in January, 2022. Now, I'm currently employed at [HypeScout](https://www.hypescout.co) as Senior Software Engineer.
 
-:coffee: &emsp;Connect with me!
+:coffee: &emsp;Connect with me! 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdul-halim-rafi/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbdulHalimRafi) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdabdulhalimrafi@gmail.com)
 
