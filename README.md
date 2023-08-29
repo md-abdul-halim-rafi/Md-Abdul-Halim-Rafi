@@ -1,16 +1,17 @@
 ## Hello there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"/>
 
-I'm Rafi, a Full Stack Web Application and Flutter Developer from Bangladesh. In addition, I co-founded [Mainly Coding](https://mainlycoding.com), which was acquired by an Bangladeshi EdTech company Shikho in January, 2022. Now, I'm currently employed at [HypeScout](https://www.hypescout.co) as Senior Software Engineer.
+I'm Rafi, a Full Stack Web Application and Flutter Developer from Bangladesh. In addition, I co-founded [Mainly Coding](https://mainlycoding.com), which was acquired by a Bangladeshi EdTech company Shikho in January 2022. Now, I'm currently employed at [RoBenDevs](https://www.robendevs.com) as a Software Engineer III.
 
 :coffee: &emsp;Connect with me! 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdul-halim-rafi/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbdulHalimRafi) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdabdulhalimrafi@gmail.com)
 
 
-:hearts: &emsp;I love programming and always explore gatherting new technical knowledge and skill <br/>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/facebook/230/man-tipping-hand-type-1-2_1f481-1f3fb-200d-2642-fe0f.png" alt="man hand raise emo" height="20px" /> &emsp;I’m currently working as Lead Software Engineer at HypeScout <br/>
+:hearts: &emsp; I love programming and always explore gathering new technical knowledge and skill <br/>
+:sparkles: &emsp; I’m currently working as a Software Engineer III at RoBenDevs <br/>
+:raised_hands: &emsp; I had worked as the Lead Software Engineer at HypeScout <br/>
 :e-mail: &emsp;How to reach me: mdabdulhalimrafi@gmail.com.<br/>
-⚡ &emsp;Fun fact: I've co-founded my country's first ever hands on learing system for coding arena MainlyCoding.com.
+⚡ &emsp; Fun fact: I've co-founded my country's first-ever hands-on learning system for the coding arena MainlyCoding.com.
 
 #### Things I code with
 
@@ -37,12 +38,16 @@ I'm Rafi, a Full Stack Web Application and Flutter Developer from Bangladesh. In
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://mainlycoding.com" target="_blank">MainlyCoding.com</td>
-      <td>Mainly Coding (মেইনলি কোডিং) is a Personalized Online Learning Platform dedicated to learning and teaching Programming in Bangla.</td>
+      <td><a href="https://robendevs.com" target="_blank">RoBenDevs</td>
+      <td>RoBenDevs is a fast-growing company based in Bangladesh where they are dedicated to developing innovative solutions that meet the needs of today's ever-changing technological landscape</td>
     </tr>
     <tr>
       <td><a href="https://www.hypescout.co" target="_blank">HypeScout</a></td>
       <td>First ever data-driven Influencer Marketing Platform in Bangladesh</td>
+    </tr>
+    <tr>
+      <td><a href="https://mainlycoding.com" target="_blank">MainlyCoding.com</td>
+      <td>Mainly Coding (মেইনলি কোডিং) is a Personalized Online Learning Platform dedicated to learning and teaching Programming in Bangla.</td>
     </tr>
   </tbody>
 </table>
