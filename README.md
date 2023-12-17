@@ -38,7 +38,11 @@ I'm Rafi, a Full Stack Web Application and Flutter Developer from Bangladesh. In
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://robendevs.com" target="_blank">RoBenDevs</td>
+      <td><a href="https://www.octolane.com" target="_blank">Octolane AI</a></td>
+      <td>Leveraging around-the-clock intelligent AI agents to gather public sources to do multi-layered cross-checking, meticulous data cleaning, and rigorous analysis of billions of data rows to provide real-time B2B data that's not outdated.</td>
+    </tr>
+    <tr>
+      <td><a href="https://robendevs.com" target="_blank">RoBenDevs</a></td>
       <td>RoBenDevs is a fast-growing company based in Bangladesh where they are dedicated to developing innovative solutions that meet the needs of today's ever-changing technological landscape</td>
     </tr>
     <tr>
